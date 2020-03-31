@@ -1,0 +1,2 @@
+# ocr
+ocr of captcha
